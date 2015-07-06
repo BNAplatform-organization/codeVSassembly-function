@@ -1,0 +1,1 @@
+.\Newman_modularity_GPU.exe E:\cudaintergrated\BNU_data_S2\csrFormat 0
