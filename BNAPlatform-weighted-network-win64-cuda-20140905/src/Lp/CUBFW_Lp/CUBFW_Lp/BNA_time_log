@@ -1,0 +1,8 @@
+BFW_Lp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrGPU	kernel time	134.787s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	0s
+BFW_Lp	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrGPU	kernel time	138.177s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	0s
+BFW_Lp	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrGPU	kernel time	134.742s
+BFW_Lp	RandomGPU	(Maslov+kernel) time	0s
+BFW_Lp	GPU	total time	407.956s
+

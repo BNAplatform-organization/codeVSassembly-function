@@ -1,0 +1,73 @@
+Cp	CPU	total time	0.037s
+
+Cp	CPU	total time	0.002s
+
+Cp	D:\test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	4.15671s
+Cp	D:\test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	4.08499s
+Cp	D:\test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	4.06089s
+Cp	D:\test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	3.94295s
+Cp	D:\test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	4.00372s
+Cp	D:\data_test\test\test.csrCPU	kernel time	0.869148s
+Cp	D:\data_test\test\test.csrCPU	kernel time	1.01567s
+Cp	D:\data_test\test\test.csrCPU	kernel time	0.748006s
+Cp	D:\data_test\test\test.csrCPU	kernel time	0.782145s
+Cp	D:\data_test\test\test.csrCPU	kernel time	0.965536s
+Cp	RandomCPU	(Maslov+kernel) time	5.34355e-005s
+Cp	CPU	total time	0.98s
+
+Cp	D:\data_test\test\test.csrCPU	kernel time	29.5888s
+Cp	D:\data_test\test\test.csrCPU	kernel time	8.20566s
+Cp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	2.89575s
+Cp	D:\data_test\test\test.csrCPU	kernel time	43.4836s
+Cp	D:\data_test\test\test.csrCPU	kernel time	22.8668s
+Cp	RandomCPU	(Maslov+kernel) time	5.13458e-005s
+Cp	CPU	total time	22.881s
+
+Cp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	10.6641s
+Cp	RandomCPU	(Maslov+kernel) time	0.010445s
+Cp	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrCPU	kernel time	10.5136s
+Cp	RandomCPU	(Maslov+kernel) time	0.0107695s
+Cp	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	0.0240564s
+Cp	RandomCPU	(Maslov+kernel) time	0.00535161s
+Cp	CPU	total time	21.483s
+
+Cp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	11.1864s
+Cp	RandomCPU	(Maslov+kernel) time	0.0105674s
+Cp	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrCPU	kernel time	10.5846s
+Cp	RandomCPU	(Maslov+kernel) time	0.0109868s
+Cp	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	6.13204s
+Cp	RandomCPU	(Maslov+kernel) time	0.00524713s
+Cp	CPU	total time	28.188s
+
+Cp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	10.6535s
+Cp	RandomCPU	(Maslov+kernel) time	5.61222e-005s
+Cp	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrCPU	kernel time	10.5763s
+Cp	RandomCPU	(Maslov+kernel) time	7.97055e-005s
+Cp	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	6.12656s
+Cp	RandomCPU	(Maslov+kernel) time	6.0003e-005s
+Cp	CPU	total time	27.571s
+
+Cp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	11.1154s
+Cp	RandomCPU	(Maslov+kernel) time	0.000117618s
+Cp	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrCPU	kernel time	10.5782s
+Cp	RandomCPU	(Maslov+kernel) time	0.000120603s
+Cp	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	6.12543s
+Cp	RandomCPU	(Maslov+kernel) time	0.000106871s
+Cp	CPU	total time	28.041s
+
+Cp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	11.2856s
+Cp	RandomCPU	(Maslov+kernel) time	9.70198e-005s
+Cp	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrCPU	kernel time	10.5777s
+Cp	RandomCPU	(Maslov+kernel) time	9.10493e-005s
+Cp	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	6.12676s
+Cp	RandomCPU	(Maslov+kernel) time	9.70198e-005s
+Cp	CPU	total time	28.226s
+
+Cp	D:\data_test\N0001_4DVolume_25218_spa1.031%_cor0.500.csrCPU	kernel time	42.1426s
+Cp	RandomCPU	(Maslov+kernel) time	5.64207e-005s
+Cp	D:\data_test\N0002_4DVolume_25218_spa1.057%_cor0.500.csrCPU	kernel time	48.0466s
+Cp	RandomCPU	(Maslov+kernel) time	5.70178e-005s
+Cp	D:\data_test\N0003_4DVolume_25218_spa0.518%_cor0.500.csrCPU	kernel time	25.703s
+Cp	RandomCPU	(Maslov+kernel) time	4.56739e-005s
+Cp	CPU	total time	116.11s
+
